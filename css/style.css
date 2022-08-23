@@ -1,0 +1,231 @@
+.button__rounded__signup {
+  border-radius: 51px;
+  min-width: 140px;
+  max-width: 100%;
+  min-height: 40px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.list__item__font {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #4f5665;
+}
+.laslesvpn_heading {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 70px;
+  max-width: 530px;
+  color: #0b132a;
+}
+.laslesvpn_w{
+  max-width: 540px;
+}
+.button__rounded {
+  box-shadow: 0px 20px 54px rgba(245, 56, 56, 0.35);
+  background: #f53838;
+  border-radius: 10px;
+  border: none;
+  min-width: 200px;
+  max-width: 100%;
+  min-height: 55px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.illustration__1 {
+  max-width: 610px;
+  max-height: 310px;
+}
+.border {
+  border: 2px solid #eeeff2;
+  max-width: 0px;
+  height: 125px;
+}
+.user_shadow{
+  box-shadow: 0px 45px 170px 4px rgb(220 230 230 / 40%);
+}
+.head_font {
+  font-family: "Rubik";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #0b132a;
+}
+.tag_font{
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #4f5665;
+}
+.Illustration__2 {
+  max-height: 360px;
+  max-width: 430px;
+}
+.features_heading {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+  max-width: 370px;
+  color: #0b132a;
+}
+.features_w{
+  max-width: 430px;
+}
+.features_shadow {
+  box-shadow: 0px 148px 279px 4px rgb(220 230 230 / 40%);
+}
+.plan_w{
+  max-width: 550px;
+}
+.jumbotron {
+  border: 2px solid #dddddd;
+  border-radius: 10px;
+  width: 330px;
+  min-height: 800px;
+  background-color: #ffffff;
+}
+.jumbotron_red {
+  border: 2px solid #f53838;
+  border-radius: 10px;
+  width: 330px;
+  min-height: 800px;
+}
+.free_p{
+  padding-top: 120px;
+}
+.standard_p{
+  padding-top: 80px;
+}
+.premium_p{
+  padding-top: 40px;
+}
+.button__rounded__P-Select{
+  box-shadow: 0px 20px 54px rgb(245 56 56 / 35%);
+  background: #f53838;
+  border-radius: 10px;
+  border: none;
+  min-width: 170px;
+  height: 45px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.plans-font {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #0b132a;
+}
+.plans__bottom__font {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  color: #0b132a;
+}
+.huge_h_w{
+  max-width: 390px;
+}
+.huge_w{
+  max-width: 510px;
+}
+.trusted__heading, .huge__heading, .plan__heading {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+  color: #0b132a;
+}
+.trusted_h_w{
+  max-width: 420px;
+}
+.trusted__tagline, .features__tagline, .plan__tagline, .huge__tagline, .laslesvpn_tagline{
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #4f5665;
+}
+
+.trusted_w{
+  max-width: 520px;
+}
+.card-body_viezh{
+  border: 2px solid #f53838;
+  border-radius: 10px;
+  min-height: 230px;
+}
+.customer__name{
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #0b132a;
+}
+.customer__tagline{
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #0b132a;
+}
+.card__border{
+  border: 2px solid #dddddd;
+  border-radius: 10px;
+  min-height: 230px;
+}
+.left {
+  max-width: 60px;
+  max-height: 60px;
+}
+.subscribe__border {
+  max-width: 1060px;
+  min-height: 200px;
+}
+.subscribe__shadow {
+  box-shadow: 10px 10px 114px 40px rgb(220 230 230 / 40%);
+}
+.subscribe__heading {
+  max-width: 370px;
+  font-family: "Rubik";
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 45px;
+  color: #0b132a;
+}
+.footer_w{
+  max-width: 320px;
+}
+.footer__line__font, .footer__tagline, .subscribe__tagline, .customer__location, .features__lines__font, .plans__tagline__font{
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #4f5665;
+}
+ .left_right{
+   background-color: #Ffff;
+ }
+ .carousel-control-prev-icon,
+ .carousel-control-next-icon{
+   display: none;
+ }
+ .carousel-control-next, .carousel-control-prev{
+   position: static;
+   width: 0;
+ }
+ 
